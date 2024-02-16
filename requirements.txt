@@ -1,0 +1,7 @@
+Libraries
+
+Streamlit: Digunakan untuk membuat aplikasi web interaktif.
+Pandas: Digunakan untuk manipulasi dan analisis data.
+Matplotlib: Digunakan untuk membuat visualisasi data.
+Seaborn: Digunakan untuk membuat visualisasi data statistik yang menarik dan informatif.
+Scikit-learn: Digunakan untuk machine learning, termasuk analisis klaster dengan algoritma K-Means.
