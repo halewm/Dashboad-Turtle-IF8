@@ -5,3 +5,8 @@ Seaborn
 Scikit-learn
 plotly
 streamlit-option-menu
+streamlit_chat
+langchain
+sentence_transformers
+pinecone-client
+openai==0.28
