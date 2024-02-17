@@ -4,4 +4,3 @@ Matplotlib
 Seaborn
 Scikit-learn
 plotly
-streamlit_option
