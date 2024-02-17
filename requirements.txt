@@ -1,7 +1,0 @@
-Streamlit
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-plotly
-pipenv install streamlit-option-menu
