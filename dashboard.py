@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 # 10122281 - Prawira Danu Kusuma
 # 10122274 - Muhamad Daffany Prasetya
 # 10122289 - Muhamad Alvin
-# 10122284 - Muhamad Rizky Firmansyah (tambahan)
+# 10122284 - Muhamad Rizky Firmansyah
 
 # Load datasets
 hour_df = pd.read_csv("hour.csv")
