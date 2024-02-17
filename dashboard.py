@@ -7,7 +7,14 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
-
+# anggota:
+# 10122309 - Mohammad Raihan
+# 10122300 - Indra Maulana
+# 10122278 - Ibrahim Halim Mahmud
+# 10122281 - Prawira Danu Kusuma
+# 10122274 - Muhamad Daffany Prasetya
+# 10122289 - Muhamad Alvin
+# 10122284 - Muhamad Rizky Firmansyah (tambahan)
 
 # Load datasets
 hour_df = pd.read_csv("hour.csv")
